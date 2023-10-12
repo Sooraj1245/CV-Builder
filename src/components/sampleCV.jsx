@@ -5,14 +5,14 @@ const sampleCV = {
     fileName: "sri.jpg",
     fileSrc: samplePicture,
     info:{
-        firstname: "Sri",
-        lastname:"Hari",
-        niche: "Bald Asshole",
+        firstname: "Sooraj",
+        lastname:"Raj",
+        niche: "Full Stack",
         about:" Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt maiores sequi adipisci accusantium illum tempore numquam, minima totam non velit quibusdam voluptatem quod ex? Delectus fuga tempore fugiat dolorem quod!",
         address: "India, TN, Coimbatore",
-        email: "example@gmail.com",
-        phoneNumber: "123456",
-        portfolioLink: "https://github.com/Ro-yeee",
+        email: "soorajrqj@gmail.com",
+        phoneNumber: "+919047284073",
+        portfolioLink: "https://github.com/",
     },
     education:[       
         {
