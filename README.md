@@ -1,8 +1,10 @@
-# React + Vite
+# Simple CV Builder with React and useState
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple CV builder application created using React, and it leverages the `useState` hook to manage the state of the CV components. Users can add and edit personal information, education, work experience, and other sections to create their own CV.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create and edit personal information.
+- Add and edit education details.
+- Add and edit work experience.
+- Easy-to-use interface for building a customized CV.
