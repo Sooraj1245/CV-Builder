@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBook, faBriefcase, faGlobe, faPhone,faLocationPin } from "@fortawesome/free-solid-svg-icons";
 import { faEnvelope, faUser } from "@fortawesome/free-regular-svg-icons";
 import EducationDetails from "./eduRender";
-import WorkExpRender from "./workexprender";
+import WorkExpRender from "./workexpRender";
 import '../App.css'
 
 
