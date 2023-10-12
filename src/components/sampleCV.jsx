@@ -12,7 +12,7 @@ const sampleCV = {
         address: "India, TN, Coimbatore",
         email: "soorajrqj@gmail.com",
         phoneNumber: "+919047284073",
-        portfolioLink: "https://github.com/",
+        portfolioLink: "https://github.com/Sooraj1245",
     },
     education:[       
         {

@@ -15,7 +15,7 @@ function HeaderBox({loadSample,reset,toggleTheme}){
                 <FontAwesomeIcon className='icon' onClick={loadSample} icon={faPenToSquare}  />
                 <FontAwesomeIcon className='icon' onClick={reset} icon={faXmark}  />
                 <FontAwesomeIcon className='icon' icon={faMoon} onClick={toggleTheme}  />
-\            </div>
+            </div>
         </div>
     )
 }
