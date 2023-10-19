@@ -89,7 +89,7 @@ function App() {
   }
 
   const loadSample=()=>{
-    setData(sampleCV)
+    setData(sampleCV);
   }
 
   const handleEduData=(e,id)=>{
