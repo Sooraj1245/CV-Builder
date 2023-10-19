@@ -27,7 +27,7 @@ function PersonalSection({data,handleData,handlePic}){
 
                 <input type="number" name="phoneNumber" id="" placeholder="Phone Number" value={data.info.phoneNumber} onChange={handleData}/>
                 <input type="text" value={data.info.address} name="address" onChange={handleData} placeholder="Address"/>
-                <input type="url" name="portfolioLink" id="" placeholder="Link to your Site" value={data.info.phoneNumber} onChange={handleData}/>
+                <input type="url" name="portfolioLink" id="" placeholder="Link to your Site" value={data.info.portfolioLink} onChange={handleData}/>
 
                 <textarea name="about" id="" cols="25" rows="10" placeholder="Tell a bit about yourself." value={data.info.about} onChange={handleData}></textarea>
             </div>
